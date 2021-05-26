@@ -1,0 +1,22 @@
+data driven resume
+
+    linkid searches for skills to list
+
+soft skills
+    hard worker
+    team comm
+    hard worker
+
+XYZ
+accomplished X
+as measured by Y
+by doing Z
+
+output:
+3 things to know about me, and proove it quickly.
+
+
+
+LINKEDID
+
+connect with 100 recruiters a day for 7 days
